@@ -8,6 +8,7 @@ require (
 	github.com/lib/pq v1.9.0
 	github.com/sean-/postgresql-acl v0.0.0-20161225120419-d10489e5d217
 	gocloud.dev v0.21.0
+	golang.org/x/oauth2 v0.0.0-20201203001011-0b49973bad19
 )
 
 require (
@@ -63,7 +64,6 @@ require (
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
 	golang.org/x/mod v0.4.0 // indirect
 	golang.org/x/net v0.0.0-20210326060303-6b1517762897 // indirect
-	golang.org/x/oauth2 v0.0.0-20201203001011-0b49973bad19 // indirect
 	golang.org/x/sys v0.0.0-20210502180810-71e4cd670f79 // indirect
 	golang.org/x/text v0.3.5 // indirect
 	golang.org/x/tools v0.0.0-20201203202102-a1a1cbeaa516 // indirect
